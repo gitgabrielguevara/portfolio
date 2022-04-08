@@ -4,7 +4,7 @@ import styles from '../styles/About.module.css'
 
 export default function About() {
     return (
-        <div class='center'>
+        <div className='center'>
             <h1 className={styles.coolText}>About me</h1>
 
             <p>Here is all about me</p>
